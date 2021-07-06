@@ -28,7 +28,7 @@
 const miguelBermell = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, SASS],
-  tools: [Angular, Node, Jest, Docker],
+  tools: [Angular, Node, Jest],
 }
 ```
 
