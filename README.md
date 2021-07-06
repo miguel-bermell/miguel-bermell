@@ -1,6 +1,6 @@
 <div align="center">
   <img width="180" height="200" src="https://user-images.githubusercontent.com/79775760/124392152-646e1900-dcf4-11eb-98f4-e10923c49010.png">
-  <h2> Hey 👋!, soy Miguel Bermell</h2>
+  <h2> Hey 👋, soy Miguel Bermell</h2>
   <p> Full Stack Web Developer | Esports Project Manager</p>
 
   <a href="https://twitter.com/drifkinho">
